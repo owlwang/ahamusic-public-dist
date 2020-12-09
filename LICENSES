@@ -5,7 +5,7 @@ object-assign
 */
 
 /*!
-  * vue-router v3.4.3
+  * vue-router v3.2.0
   * (c) 2020 Evan You
   * @license MIT
   */
@@ -28,8 +28,8 @@ object-assign
  */
 
 /*!
- * Vue.js v2.6.12
- * (c) 2014-2020 Evan You
+ * Vue.js v2.6.11
+ * (c) 2014-2019 Evan You
  * Released under the MIT License.
  */
 
@@ -49,9 +49,3 @@ object-assign
 * @link https://github.com/gajus/sister for the canonical source repository
 * @license https://github.com/gajus/sister/blob/master/LICENSE BSD 3-Clause
 */
-
-//! moment.js
-
-//! moment.js language configuration
-
-//! moment.js locale configuration

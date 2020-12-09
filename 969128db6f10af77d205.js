@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{1134:function(e,t,n){"use strict";n.r(t);var c={middleware:function(e){return(0,e.redirect)("https://www.buymeacoffee.com/AHAMusic")}},r=n(45),component=Object(r.a)(c,(function(){var e=this.$createElement;return(this._self._c||e)("div")}),[],!1,null,null,null);t.default=component.exports}}]);
