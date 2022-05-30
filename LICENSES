@@ -1,16 +1,4 @@
 /*!
- * 
- * js-audio-recorder - js audio recorder plugin
- * 
- * @version v1.0.7
- * @homepage https://github.com/2fps/recorder
- * @author 2fps <echoweb@126.com> (https://www.zhuyuntao.cn)
- * @license MIT
- *         
- */
-
-
-/*!
   * vue-router v3.5.2
   * (c) 2021 Evan You
   * @license MIT
@@ -184,6 +172,18 @@
 /*!*********************************************!*\
   !*** ./src/util/request-animation-frame.js ***!
   \*********************************************/
+
+
+/*!
+ * 
+ * js-audio-recorder - js audio recorder plugin
+ * 
+ * @version v1.0.7
+ * @homepage https://github.com/2fps/recorder
+ * @author 2fps <echoweb@126.com> (https://www.zhuyuntao.cn)
+ * @license MIT
+ *         
+ */
 
 
 /*!
