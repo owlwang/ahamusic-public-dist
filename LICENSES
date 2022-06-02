@@ -12,18 +12,6 @@
 
 
 /*!
- * 
- * js-audio-recorder - js audio recorder plugin
- * 
- * @version v1.0.7
- * @homepage https://github.com/2fps/recorder
- * @author 2fps <echoweb@126.com> (https://www.zhuyuntao.cn)
- * @license MIT
- *         
- */
-
-
-/*!
  * vue-client-only v0.0.0-semantic-release
  * (c) 2021-present egoist <0x142857@gmail.com>
  * Released under the MIT License.
@@ -49,6 +37,18 @@ LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
 OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
 PERFORMANCE OF THIS SOFTWARE.
 ***************************************************************************** */
+
+
+/*!
+ * 
+ * js-audio-recorder - js audio recorder plugin
+ * 
+ * @version v1.0.7
+ * @homepage https://github.com/2fps/recorder
+ * @author 2fps <echoweb@126.com> (https://www.zhuyuntao.cn)
+ * @license MIT
+ *         
+ */
 
 
 /*!
