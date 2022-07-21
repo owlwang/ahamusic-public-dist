@@ -1,7 +1,6 @@
 {
   "name": "AHA Music  - Song Finder for Browser",
   "short_name": "AHA Music",
-  "description": "## Build Setup",
   "icons": [
     {
       "src": "https://cdn.jsdelivr.net/gh/owlwang/ahamusic-public-dist/icons/icon_64x64.a57ff4.png",
